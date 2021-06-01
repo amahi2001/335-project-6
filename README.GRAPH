@@ -1,0 +1,2 @@
+In this project, we will construct a graph and within the graph test dijkstras algorthm to find the shortest
+path between vertices in the graphs. The implementation also allows the user to see if vertices are connected.
